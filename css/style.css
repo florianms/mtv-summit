@@ -458,6 +458,7 @@ section {
   border: 2px solid transparent;
 }
 
+/*
 .services > li.active > a:after {
   content: "";
   position: absolute;
@@ -470,6 +471,7 @@ section {
   left: 50%;
   margin-left: -11px;
 }
+*/
 
 .services > li:last-child > a:before {
   border: 0;
